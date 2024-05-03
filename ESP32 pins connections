@@ -1,0 +1,38 @@
+GND - connect to ground
+GPIO_23 - OK/Enter button
+GPIO_22 - Button 4 value subtract
+TX/GPIO_01 - LED pin
+RX/GPIO_03 - Button 2 Menu scroll
+GPIO_21 - Button 1 menu scroll
+GND - connect to ground
+GPIO_19
+GPIO_18 - Buzzer pin
+GPIO_05
+GPIO_17 - Button 3 value add
+GPIO_16 - relay pin
+GPIO_04
+GPIO_00
+GPIO_02
+GPIO_15
+SD1/GPIO_08
+SD0/GPIO_07
+CLK/GPIO_06
+3.3V - supply
+EN		     
+SVP/GPIO_36
+SVN/GPIO_39
+GPIO_34 - analog input
+GPIO_35 - 
+GPIO_32 - LCD rs
+GPIO_33 - LCD en
+GPIO_25 - LCD d4
+GPIO_26 - LCD d5
+GPIO_27 - LCD d6
+GPIO_14 - LCD d7
+GPIO_12
+GND
+GPIO_13
+SD2/GPIO_09
+SD3/GPIO_10
+CMD/GPIO_11
+5V
